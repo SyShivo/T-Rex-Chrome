@@ -1,0 +1,42 @@
+html,
+.body {
+    font-size: 25px;
+    height: 100%;
+    font-family: 'Nova Square', cursive;
+}
+
+.main {
+    margin-top: 0px;
+    width: 100%;
+    height: 700px;
+    border-bottom: 2px solid #000;
+    background: #FFF;
+    
+}
+.wrapper {
+    margin-left: 60%;
+    display: flex;
+}
+
+.text_Best {
+    margin-top: 35px;
+    margin-right: 35px;
+    font-size: 50px;
+}
+.text_Score {
+    margin-top: 35px;
+    font-size: 50px;
+}
+
+.Place {
+    display: flex;
+    margin-top: -15px;
+}
+
+.imgDino {
+    margin-top: -60px;
+    
+}
+.imgCactus1 {
+    margin-top: -60px;
+}
